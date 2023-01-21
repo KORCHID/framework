@@ -1,0 +1,13 @@
+{
+    "name": "KORCHID/framework",
+    "description": "A short description of your package",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/"
+        }
+    }
+}
